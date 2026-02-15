@@ -1,5 +1,3 @@
-codigo_python/PiedraPapelTijera.py
-
 #Creaccion de variable aleatoria para computador
 import random
 opciones = ["piedra", "papel", "tijera"]
