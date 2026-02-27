@@ -15,8 +15,8 @@ Desarrollar un software interactivo que permita aplicar:
 - Lógica algorítmica
 
 ## Tecnologías Utilizadas
-- Python 3
-- Librería estándar `random`
+- Python
+- Librería estándar random
 - Git y GitHub para control de versiones
 
 ## Integración de las Unidades del Curso
@@ -24,10 +24,10 @@ Unidad 1 – Variables y Tipos de Datos
 Uso de variables tipo string, int y listas para almacenar opciones del juego.
 
 Unidad 2 – Condicionales
-Implementación de estructuras `if`, `elif` y `else` para determinar el resultado de cada ronda.
+Implementación de estructuras if, elif y else para determinar el resultado de cada ronda.
 
 Unidad 3 – Ciclos
-Uso de estructuras `while` para validación de entradas y `for` para control de rondas.
+Uso de estructuras while para validación de entradas y for para control de rondas.
 
 Unidad 4 – Funciones
 Desarrollo de funciones para:
