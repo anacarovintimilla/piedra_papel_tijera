@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una aplicación interactiva en Python que simula el juego clásico Piedra, Papel o Tijera contra la computadora.
-El programa permite al usuario jugar múltiples rondas, valida las entradas ingresadas y genera decisiones pseudoaleatorias utilizando la librería estándar random.
+El programa permite al usuario jugar múltiples rondas, valida las entradas ingresadas y genera decisiones aleatorias utilizando la librería random.
 El desarrollo integra los conocimientos adquiridos durante las cuatro unidades de la asignatura, aplicando principios fundamentales de programación estructurada y programación funcional.
 
 ## Objetivo
@@ -10,14 +10,13 @@ Desarrollar un software interactivo que permita aplicar:
 - Variables y tipos de datos
 - Estructuras condicionales
 - Ciclos repetitivos
-- Funciones (programación funcional)
+- Funciones para programación funcional
 - Validación de datos
-- Lógica algorítmica
 
 ## Tecnologías Utilizadas
 - Python
 - Librería estándar random
-- Git y GitHub para control de versiones
+- GitHub para control de versiones
 
 ## Integración de las Unidades del Curso
 Unidad 1 – Variables y Tipos de Datos
@@ -37,10 +36,10 @@ Desarrollo de funciones para:
 
 ## Características del Programa
 - Validación de entradas inválidas.
-- Selección pseudoaleatoria de la computadora.
+- Selección aleatoria de la computadora.
 - Control de múltiples rondas.
 - Marcador acumulativo.
-- Mensaje final con resultados.
+- Visualización final de los resultados.
 
 ## Conclusión
 El proyecto permitió integrar los conocimientos teóricos y prácticos del curso, reforzando la importancia de la validación de datos, la modularidad del código y la estructuración lógica en el desarrollo de software.
