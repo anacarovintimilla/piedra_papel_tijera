@@ -43,7 +43,9 @@ Desarrollo de funciones para:
 
 ## Contenido de carpetas
 - Carpeta Diagramas, contiene diagrama de flujo del programa en Raptor
-- Carpeta Video, contiene videos 
+- Carpeta Video, contiene video del Aprendizaje Autonomo 2 y video de la evaluacion del contacto con el docente
+- Carpeta Codigo Raptor, contiene programa realizado en raptor
+- Carpeta Codigo Python, contiene el codigo del Aprendizaje Autonomo 2 y programa actualizado de la Evaluacion con el Docente
 
 ## Conclusión
 El proyecto permitió integrar los conocimientos teóricos y prácticos del curso, reforzando la importancia de la validación de datos, la modularidad del código y la estructuración lógica en el desarrollo de software.
