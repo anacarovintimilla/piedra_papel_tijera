@@ -41,6 +41,10 @@ Desarrollo de funciones para:
 - Marcador acumulativo.
 - Visualización final de los resultados.
 
+## Contenido de carpetas
+- Carpeta Diagramas, contiene diagrama de flujo del programa en Raptor
+- Carpeta Video, contiene videos 
+
 ## Conclusión
 El proyecto permitió integrar los conocimientos teóricos y prácticos del curso, reforzando la importancia de la validación de datos, la modularidad del código y la estructuración lógica en el desarrollo de software.
 
